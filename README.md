@@ -1,3 +1,3 @@
 # Decision Trees
 
-A C++ implementation of the ID3 algorithm, Reduced Error Pruning, Random Forests and AdaBoost which improves the performance of the decision trees.
+A C++ implementation of the ID3 algorithm, Reduced Error Pruning, Random Forests and AdaBoost.
